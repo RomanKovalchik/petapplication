@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0172321-8d8e-47e7-afed-991275fd2d2e" name="Changes" comment="" />
+    <list default="true" id="c0172321-8d8e-47e7-afed-991275fd2d2e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +22,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -94,6 +99,7 @@
       <workItem from="1695314156376" duration="53000" />
       <workItem from="1695314237876" duration="6000" />
       <workItem from="1695487504740" duration="711000" />
+      <workItem from="1696000630423" duration="831000" />
     </task>
     <servers />
   </component>
